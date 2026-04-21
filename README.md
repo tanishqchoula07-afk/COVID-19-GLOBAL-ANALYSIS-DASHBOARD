@@ -65,7 +65,7 @@ Star this repo if you enjoyed the project!
 
 Dashboard preview
 
-![dashboard](covid19.png)
+![dashboard](Covid 19.png)
 
 
 
