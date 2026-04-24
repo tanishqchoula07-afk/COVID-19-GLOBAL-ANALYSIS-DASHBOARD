@@ -1,3 +1,4 @@
+
 🧾 Introduction
 
 The COVID-19 Global Analytical Dashboard is a data visualization initiative aimed at analyzing the global implications of the coronavirus pandemic. The dashboard converts raw data into insightful visualizations, enabling users to gain knowledge about trends, patterns, and key metrics in the field of COVID-19.
