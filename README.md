@@ -62,11 +62,3 @@ Should you have some recommendations, feel free to contact!
 ⭐ Star
 
 Star this repo if you enjoyed the project!
-
-Dashboard preview
-
-![dashboard](Covid 19.png.png)
-
-
-
-
